@@ -100,7 +100,7 @@ Once your location is loaded, you can control the drone using your Keyboard(Keyb
 ### **Common Issues:**
 #### **Application Crashes or Fails to Load Location**:
 - **Solution**: Ensure you’ve added a valid Google Maps API Key in the **Main Menu**.
-- **Solution**: Ensure the insert the Geographical coordinates in correct format.
+- **Solution**: Ensure to insert the Geographical coordinates in a valid format.
 - **Solution**: Check your internet connection to ensure real-time data is loaded properly.
 
 #### **Lag or Slow Performance**:
