@@ -12,6 +12,8 @@ This project aims to create an immersive drone flight simulation in Unity using 
   - **Third-Person**
   - **Bird’s-Eye**
   - **Top-Down**
+    
+- **Create and Use your own Google Cloud API key to access dynamic real-world data from Google Maps.**
 
 ## **Installation**
 
@@ -61,7 +63,7 @@ To ensure the simulation works properly, you need to integrate the Google Maps A
 3. Go to **APIs & Services** and enable the **Google Maps API**.
 4. Navigate to **Credentials**, and create an **API Key**.
 5. Copy the generated API Key.
-**(You may use your Api for free for 90 days)**
+**(You may use your Api for free for 90 days, Free of charge up to $300)**
 
 
 ### **Step 2: Enter the API Key in the Application**
