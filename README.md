@@ -20,8 +20,7 @@ An interactive drone flight simulation built in **Unity** using **Cesium for Uni
 - Use **Unity Hub** to install **Unity 6000.0.34f1 LTS**.
 
 ### **2. Install Cesium for Unity**
-1. Open **Unity Editor** and create a new project.
-2. Go to the **Unity Asset Store**, search for **Cesium for Unity**, and import it into your project.
+- follow this guide: https://cesium.com/learn/unity/unity-quickstart/
 
 ### **3. Install TextMeshPro (TMPro)**
 To ensure proper rendering of text in the application, you will need to install **TextMeshPro**:
