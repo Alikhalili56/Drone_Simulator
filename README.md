@@ -1,4 +1,4 @@
-# **Immersive Drone Flight Simulation**
+# **Drone Flight Simulator**
 
 ## **Project Overview**
 
@@ -51,7 +51,7 @@ A comprehensive guide: (https://www.youtube.com/watch?v=sHrXO_5-YJg).
 **OR** you can add your token after building the application for prefered OS in the **Main Menu** of the application (located in the settings).
 <img width="568" alt="Screenshot 2025-02-17 at 14 51 16" src="https://github.com/user-attachments/assets/284924a7-3e4c-42c1-970d-3cd08179152e" />
 
-# **User Manual: Immersive Drone Flight Simulation**
+# **User Manual: Drone Flight Simulator**
 
 ## **Getting Started**
 
