@@ -67,8 +67,8 @@ To ensure the simulation works properly, you need to integrate the Google Maps A
 ### **Step 2: Enter the API Key in the Application**
 1. Launch the application.
 2. Open the **Main Menu**.
-3. Locate the **API Key Box**.
-4. Paste your **Google Cloud API Key** into the box.
+3. Locate the **API Key field**.
+4. Paste your **Google Cloud API Key** into the field.
 5. Click **Save** to apply the key.
 
 ## **Main Features**
