@@ -2,7 +2,7 @@
 
 ## **Project Overview**
 
-An interactive drone flight simulation built in **Unity** using **Cesium for Unity**. The project enables users to control a drone and explore real-world global locations with real-time geospatial data (satellite imagery, terrain elevation, and 3D buildings).
+This project aims to create an immersive drone flight simulation in Unity using Cesium for rendering real-world geospatial data. The application connects to Google Cloud Maps data via an API key, allowing real-time access to dynamic satellite imagery, terrain elevation, and 3D building models. Users can control a drone and explore global locations, experiencing an authentic simulation with real-world data.
 
 ## **Features**
 - **Real-time 3D geospatial rendering** with **Cesium for Unity**.
