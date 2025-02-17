@@ -27,7 +27,8 @@ To ensure proper rendering of text in the application, you will need to install 
 1. Open **Unity Editor**.
 2. In the **Window** menu, go to **Package Manager**.
 3. Search for **TextMeshPro** and click **Install**.
-4. 
+
+
 ### **4. Set Up Google Cloud API**
 1. **Sign up** for **Google Cloud** at [console.cloud.google.com](https://console.cloud.google.com/).
 2. **Create a new project**.
@@ -37,6 +38,12 @@ To ensure proper rendering of text in the application, you will need to install 
 <img width="768" alt="Screenshot 2025-02-17 at 14 42 30" src="https://github.com/user-attachments/assets/e4cd682e-174e-4c71-a09a-7d9a4f6e3d2b" />
 
 A comprehensive guide: (https://www.youtube.com/watch?v=sHrXO_5-YJg).
+
+### **5. Build the Application**
+1. In Unity navigate to File>Build Profiles
+2. Choose your Preferred Platform like Windows or MacOS
+3.Select your scenes : scene 0 should be **Menu** and scene 1 should be **Game**
+4.Click on Build, choose a location on your system and wait a few seconds for Unity to finish the build.
 
 
 **OR** you can add your token after building the application for prefered OS in the **Main Menu** of the application (located in the settings).
@@ -81,7 +88,7 @@ You can choose any location in the world by entering **latitude**, **longitude**
    <img width="136" alt="Screenshot 2025-02-17 at 15 10 07" src="https://github.com/user-attachments/assets/99eddcc5-532a-47db-ac69-e137e246eabe" />
 
 
-4. Click **Apply** to load the map of the selected area.
+4. Click **Apply** to load the map of the selected area. (Please note that it may take a few seconds depending on your internet connection, so be patient!)
 
 <img width="1552" alt="Screenshot 2025-02-17 at 15 11 50" src="https://github.com/user-attachments/assets/0794028f-afe0-417a-a701-86fd98209c68" />
 <img width="1606" alt="Screenshot 2025-02-17 at 15 15 44" src="https://github.com/user-attachments/assets/53b07965-3fc8-4f1b-8f44-a1a5783a3066" />
